@@ -1,0 +1,6 @@
+token=415142691282616330
+owner=????
+prefix=$
+game=Type | $play
+stayinchannel=true
+songinstatus=false
